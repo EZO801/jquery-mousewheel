@@ -1,4 +1,6 @@
 # jQuery Mouse Wheel Plugin
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fjquery-mousewheel.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fjquery-mousewheel?ref=badge_shield)
+
 
 A [jQuery](http://jquery.com/) plugin that adds cross-browser mouse wheel support with delta normalization.
 
@@ -76,3 +78,7 @@ In your browser-side javascript:
 var $ = require('jquery-browserify');
 require('jquery-mousewheel')($);
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fjquery-mousewheel.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fjquery-mousewheel?ref=badge_large)
